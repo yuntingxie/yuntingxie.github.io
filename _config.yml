@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yunting Xie"
-  pronouns         : "she/her"  # example: "she/her"
-  bio              : "Business History/Innovation Studies/Digital Humanities"
+  pronouns         :  # example: "she/her"
+  bio              : "Programming historian of innovation"
   location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
   uri              : # URL
